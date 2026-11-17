@@ -1,0 +1,15 @@
+{
+  "name": "Trolling Motor Thrust & Shaft Length Calculator \u2014 12V, 24V, 36V",
+  "short_name": "Trolling Motor",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#05130d",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
